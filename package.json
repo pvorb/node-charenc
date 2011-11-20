@@ -3,13 +3,13 @@
   "name": "charenc",
   "description": "character encoding utilities",
   "tags": [ "utf8", "binary", "byte", "string" ],
-  "version": "0.0.0",
+  "version": "0.0.1",
   "repository": {
     "type": "git",
     "url": "git://github.com/pvorb/node-charenc.git"
   },
   "bugs": {
-    "web": "https://github.com/pvorb/node-charenc/issues"
+    "url": "https://github.com/pvorb/node-charenc/issues"
   },
   "main": "charenc.js",
   "engines": {
